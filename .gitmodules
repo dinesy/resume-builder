@@ -1,0 +1,10 @@
+[submodule "resume-generator"]
+	path = resume-generator
+	url = git@github.com:dinesy/resume-generator.git
+[submodule "resume-template"]
+	path = resume_template
+	url = git@github.com:dinesy/resume-template.git
+[submodule "ben-dines-resume"]
+	path = ben-dines-resume
+	url = git@github.com:dinesy/benjamin-dines-resume.git
+	branch = v8/main/base
